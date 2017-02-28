@@ -1,11 +1,34 @@
 * {
   box-sizing: border-box; }
 
-body {
-  background: limegreen; }
+img {
+  width: 100%;
+  display: block; }
 
-h2 {
-  color: maroon;
-  border-bottom: 4px solid maroon; }
+#app-container {
+  width: 100%; }
+
+.container-div {
+  margin-left: auto;
+  margin-right: auto; }
+
+.legislator {
+  text-align: left;
+  background-color: #c8f7c5;
+  display: inline-block;
+  vertical-align: top;
+  width: 32%;
+  font-size: 14px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+  margin-right: 7.5px;
+  margin-left: 7.5px;
+  height: 230px; }
+
+.legislator h3 {
+  font-size: 18px; }
+
+.legislator h4 {
+  font-size: 16px; }
 
 /*# sourceMappingURL=styles.css.map*/
